@@ -241,24 +241,7 @@ end as sales_stats
  
  
  
--- ------------------------------------------ PRODUCT ----------------------------------- --
 
---          1. How many unique product lines does the data have?            --
-SELECT DISTINCT(PRODUCT_LINE) FROM SALES;
-
---          2. What is the most common payment method?                      --
-SELECT COUNT(payment_method) as count, payment_method from sales
-group by payment_method order by count desc limit 1;
-
---          3. What is the most selling product line?                       --
-
-SELECT COUNT(Product_line) as count, Product_line from sales
-group by Product_line order by count desc limit 1;
-
---          4. What is the total revenue by month?                          --
-
- select round(sum(total),2) as total_revenue , month_name from sales 
- group by month_name;
 
 
 

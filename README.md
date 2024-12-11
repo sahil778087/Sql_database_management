@@ -49,6 +49,6 @@ The project includes the creation of a table named `sales` with the following fi
 - Optimization Techniques: Use of indices and modifying data types for efficiency.
 - Joins and Relationships: Queries demonstrating INNER JOIN, LEFT JOIN, and RIGHT JOIN.
 - ER Diagram Representation: Visual schema structure for enhanced understanding.
-**ps.**
+- **ps.**
 This file serves as a comprehensive guide for managing employee records using SQL commands, providing practical examples and query demonstrations.
     

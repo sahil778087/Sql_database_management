@@ -42,7 +42,8 @@ The project includes the creation of a table named `sales` with the following fi
 
 # File Name: emp_mang.pptx
 
-## Description: This presentation outlines the development of an Employee Management System using MySQL. It includes a detailed explanation of database creation, table structures, and SQL operations. The content covers:
+## Description:
+ This presentation outlines the development of an Employee Management System using MySQL. It includes a detailed explanation of database creation, table structures, and SQL operations. The content covers:
 - Database Creation and Table Design: Defining schemas, applying constraints, and indexing.
 - Data Manipulation: CRUD operations, advanced queries using joins, subqueries, and correlated subqueries.
 - Transaction Management: Use of TCL commands such as COMMIT, ROLLBACK, and SAVEPOINT.

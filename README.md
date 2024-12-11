@@ -38,6 +38,17 @@ The project includes the creation of a table named `sales` with the following fi
 ## Technologies Used  
 - **Database**: MySQL  
 - **Languages**: SQL  
-- **Tools**: MySQL Workbench  
+- **Tools**: MySQL Workbench
 
- 
+File Name: emp_mang.pptx
+
+Description: This presentation outlines the development of an Employee Management System using MySQL. It includes a detailed explanation of database creation, table structures, and SQL operations. The content covers:
+- Database Creation and Table Design: Defining schemas, applying constraints, and indexing.
+- Data Manipulation: CRUD operations, advanced queries using joins, subqueries, and correlated subqueries.
+- Transaction Management: Use of TCL commands such as COMMIT, ROLLBACK, and SAVEPOINT.
+- Optimization Techniques: Use of indices and modifying data types for efficiency.
+- Joins and Relationships: Queries demonstrating INNER JOIN, LEFT JOIN, and RIGHT JOIN.
+- ER Diagram Representation: Visual schema structure for enhanced understanding.
+ps.
+This file serves as a comprehensive guide for managing employee records using SQL commands, providing practical examples and query demonstrations.
+    
